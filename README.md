@@ -1,1 +1,1 @@
-bot_telegram
+Bot

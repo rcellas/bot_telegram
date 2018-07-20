@@ -1,0 +1,16 @@
+pip -V
+
+pip3.6 install pipenv
+
+sudo pip3.6 install pipenv
+pipenv install python-telegram-Bot
+
+pipenv shell
+python --version
+
+// ejecutar atom desde pipenv con "atom ."
+
+
+https://www.codementor.io/garethdwyer/building-a-telegram-bot-using-python-part-1-goi5fncay
+
+https://github.com/BCNDojos/pyDojos/blob/telegram-bot/telegram-bot/telegram-bot.org
