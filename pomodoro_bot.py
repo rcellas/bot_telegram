@@ -3,7 +3,7 @@ import logging
 from telegram.ext import Updater
 from telegram.ext import CommandHandler, MessageHandler, Filters
 
-updater = Updater(token="561331830:AAHhFS7djySz2NB0JasXv7sVto8OCCKAExA")
+updater = Updater(token="aqui va el token")
 dispatcher = updater.dispatcher
 
 logging.basicConfig(
