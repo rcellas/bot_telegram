@@ -1,6 +1,6 @@
 import os
 import telegram
 
-bot = telegram.Bot(token="561331830:AAHhFS7djySz2NB0JasXv7sVto8OCCKAExA")
+bot = telegram.Bot(token="aqui va token")
 
 print(bot.get_me())
